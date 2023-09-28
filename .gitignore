@@ -6,6 +6,7 @@
 storage/
 
 config.json
+config.js
 database.json
 database.dev.json
 database.prod.json
