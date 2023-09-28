@@ -1,5 +1,5 @@
 module.exports = {
-TOKEN: "MTE1NjIyOTE3MjM1NjcxMDQzNA.GutXx9.FsrYScZpY74odFtpwv696sHcpKD2ytN5T7xURQ",
+TOKEN: "",
 ownerID: ["1005244179472986163"], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "https://discord.com/api/oauth2/authorize?client_id=1156229172356710434&permissions=2150697024&scope=bot%20applications.commands", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
