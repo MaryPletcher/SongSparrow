@@ -1,15 +1,21 @@
 module.exports = {
-TOKEN: "",
-ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
-botInvite: "", //write your discord bot invite.
+TOKEN: "MTE1NjIyOTE3MjM1NjcxMDQzNA.GutXx9.FsrYScZpY74odFtpwv696sHcpKD2ytN5T7xURQ",
+ownerID: ["1005244179472986163"], //write your discord user id. example: ["id"] or ["id1","id2"]
+botInvite: "https://discord.com/api/oauth2/authorize?client_id=1156229172356710434&permissions=2150697024&scope=bot%20applications.commands", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
-mongodbURL: "", //write your mongodb url.
+mongodbURL: "mongodb+srv://mary:Kc9KEQL5zF0WvBoU@atlascluster.n2g2zsz.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
 status: '❤️ codeshare.me',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
 embedColor: "ffa954", //hex color code
 errorLog: "", //write your discord error log channel id.
 
+
+// {
+// 	"token": "MTE1NjIyOTE3MjM1NjcxMDQzNA.GutXx9.FsrYScZpY74odFtpwv696sHcpKD2ytN5T7xURQ",
+//     "clientId": "1156229172356710434",
+// 	"guildId": "1120178838983422052"
+// }
 
 sponsor: {
 status: true, //true or false
